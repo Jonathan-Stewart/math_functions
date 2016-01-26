@@ -24,5 +24,4 @@ int main() {
 	printf("%i\n", i);
 	printf("%i\n", j);
 	printf("%i\n", k);
-	printf("%i\n", l);
 }
